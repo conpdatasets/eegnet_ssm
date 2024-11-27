@@ -38,5 +38,8 @@ Fonds de Recherche du Québec – Santé, National Sciences and Engineering Rese
 **Primary Publication**\
 Nicola Thibault, Stéphanie D'amours, Philippe Albouy, Simon Grondin; Musical Expertise Influences the Processing of Short and Long Auditory Time Intervals: An Electroencephalography Study. J Cogn Neurosci 2024; 36 (10): 2268–2280. doi: https://doi.org/10.1162/jocn_a_02219
 
+**Research Paper Link**\
+https://direct.mit.edu/jocn/article/36/10/2268/123575/
+
 **Contact Person**\
 Nicola Thibault: nicola.thibault.1@ulaval.ca
