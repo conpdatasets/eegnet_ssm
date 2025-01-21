@@ -40,3 +40,5 @@ Fonds de Recherche du Québec – Santé, National Sciences and Engineering Rese
 
 **Contact Person**\
 Nicola Thibault: nicola.thibault.1@ulaval.ca
+
+Data dissemination and standardization supported by [EEGNet.Loris.ca](https://eegnet.loris.ca)
