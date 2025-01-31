@@ -97,7 +97,7 @@
 	},
 	{
 		"value": "music"
-    },		
+    },
 	{
 		"value": "intervals"
     }
@@ -171,6 +171,14 @@
             "values": [
                 {
                     "value": "Quebec"
+                }
+            ]
+        },
+{
+            "category": "origin_consortium",
+            "values": [
+                {
+                    "value": "EEGnet"
                 }
             ]
         },
